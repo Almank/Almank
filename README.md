@@ -1,11 +1,17 @@
 ### Hi there, I'm Christoffer - [Almank][website] 👋
 - 🌱  &nbsp; I’m currently learning RxJS
-- ⭐️  &nbsp; I’m looking to collaborate with other content creators
+- ⭐️  &nbsp; I’m currently working on a monorepo starter template with redux, redux-observable, reselect, react, and typescript
 - 🥅  &nbsp; 2020 Goals: Contribute to Open Source projects
+- 📚  &nbsp; Currently reading The Pragmatic Programmer
+
+### Previously read books:
+- Clean Architecture: A Craftsman's Guide to Software Structure and Design
+- The Clean Coder: A Code of Conduct for Professional Programmers
+- Clean Code
 
 ### Connect with me:
 
-[<img align="left" alt="almankaas.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="almankaas.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="almank | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
@@ -39,5 +45,5 @@
 
 <img align="left" alt="Almank's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Almank&show_icons=true&hide_border=true&hide=issues,stars&count_private=true" />
 
-[website]: https://almankaas.me
+[website]: https://almankaas.com
 [linkedin]: https://www.linkedin.com/in/almankaas/
