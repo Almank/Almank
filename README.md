@@ -2,7 +2,7 @@
 I am a highly adaptable Software Engineer with a passion for writing versatile, robust, easily readable and maintainable code
 
 ### Personal growth:
-- 🌱  &nbsp; I’m currently learning Microservice Architecture
+- 🌱  &nbsp; I’m currently learning Microservice Architecture and GraphQl as a API Gateway
 - ⭐️  &nbsp; I’m currently working on a monorepo starter template with redux, redux-observable, reselect, react, and typescript
 - 🥅  &nbsp; 2021 Goals: Learn Cloud Architecture and top Cloud Providers
 - 📚  &nbsp; Currently reading "97 Things Every Software Architect Should Know"
